@@ -170,6 +170,11 @@ canvas {
     top: 15%;
   }
 }
+@media screen and (max-width: 450px) {
+  canvas {
+    top: 5%;
+  }
+}
 
 @media screen and (max-width: 750px) {
   #textThree,
