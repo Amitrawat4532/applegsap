@@ -64,6 +64,7 @@ canvas {
   color: #00ff41;
   z-index: 2;
   font-size: 30px;
+  padding-top: 80px;
   /* background: yellow; */
 
   /* position: absolute;
@@ -157,6 +158,7 @@ canvas {
   width: 100%;
   z-index: 3;
   gap: 50px;
+  overflow: hidden;
   /* background: pink; */
 }
 /* .all_new {
@@ -174,7 +176,9 @@ canvas {
 @media screen and (max-width: 450px) {
   canvas {
     /* margin-top: -30%; */
-    top: 1%;
+    top: 5%;
+    scale: 2;
+    /* overflow: hidden; */
   }
 }
 
@@ -214,4 +218,9 @@ canvas {
   .br {
     display: block;
   }
-} ;
+}
+
+.all_new {
+  padding-top: 90px;
+  background: rgb(247, 51, 51);
+}
