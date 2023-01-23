@@ -21,7 +21,7 @@ canvas {
 
   /* left: 50%; */
   top: 50%;
-  transform: translateY(-65%);
+  transform: translateY(-50%);
   left: 0;
   right: 0;
   /* transform: translate(-50%, -50%); */
@@ -167,7 +167,7 @@ canvas {
   height: 100px;
   padding-top: 90px;
 } */
-
+/* 
 @media screen and (max-width: 750px) {
   canvas {
     top: -15%;
@@ -176,10 +176,8 @@ canvas {
 }
 @media screen and (max-width: 450px) {
   canvas {
-    /* margin-top: -30%; */
     top: 5%;
     scale: 2;
-    /* overflow: hidden; */
   }
 }
 
@@ -192,7 +190,7 @@ canvas {
   canvas {
     margin-top: 8%;
   }
-}
+} */
 /* @media screen and (max-width: 1300px) {
   canvas {
     margin-top: 10%;
