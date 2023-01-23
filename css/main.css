@@ -190,7 +190,7 @@ canvas {
 }
 @media screen and (max-width: 1300px) {
   canvas {
-    margin-top: 9%;
+    margin-top: 3%;
   }
 }
 @media screen and (max-width: 750px) {
