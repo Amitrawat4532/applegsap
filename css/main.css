@@ -184,19 +184,19 @@ canvas {
 
 @media screen and (max-width: 1600px) {
   canvas {
-    margin-top: 0%;
+    margin-top: 3%;
   }
 }
 @media screen and (max-width: 1400px) {
   canvas {
-    margin-top: 1%;
+    margin-top: 10%;
   }
 }
-@media screen and (max-width: 1300px) {
+/* @media screen and (max-width: 1300px) {
   canvas {
-    margin-top: 0%;
+    margin-top: 10%;
   }
-}
+} */
 @media screen and (max-width: 750px) {
   #textThree,
   #textTwo,
