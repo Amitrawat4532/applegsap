@@ -20,14 +20,14 @@ canvas {
   position: absolute;
 
   /* left: 50%; */
-  top: 70vh;
-  transform: translateY(-70vh);
+  top: 60vh;
+  transform: translateY(-50vh);
   left: 0;
   right: 0;
   /* transform: translate(-50%, -50%); */
   min-width: 100%;
   max-width: 100%;
-  /* max-height: 100vh; */
+  max-height: 100vh;
 
   z-index: 3;
   /* border: 12px solid rgb(101, 251, 141); */
