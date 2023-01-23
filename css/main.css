@@ -20,7 +20,7 @@ canvas {
   position: absolute;
 
   /* left: 50%; */
-  top: -30%;
+  top: -30vh;
   left: 0;
   right: 0;
   /* transform: translate(-50%, -50%); */
@@ -35,7 +35,7 @@ canvas {
 #text {
   color: white;
   z-index: 2;
-  font-size: 182px;
+  /* font-size: 182px; */
   /* background: red; */
   width: 100%;
   text-align: center;
