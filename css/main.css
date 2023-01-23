@@ -173,8 +173,7 @@ canvas {
 }
 @media screen and (max-width: 450px) {
   canvas {
-    top: 30%;
-    margin-top: 70%;
+    margin-top: 40%;
   }
 }
 
