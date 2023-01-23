@@ -180,7 +180,7 @@ canvas {
 
 @media screen and (max-width: 1600px) {
   canvas {
-    margin-top: -3%;
+    margin-top: 3%;
   }
 }
 @media screen and (max-width: 1400px) {
