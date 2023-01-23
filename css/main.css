@@ -20,7 +20,7 @@ canvas {
   position: absolute;
 
   /* left: 50%; */
-  top: 60%;
+  top: 40%;
   transform: translateY(-50%);
   left: 0;
   right: 0;
