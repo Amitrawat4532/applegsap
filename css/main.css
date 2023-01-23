@@ -173,7 +173,8 @@ canvas {
 }
 @media screen and (max-width: 450px) {
   canvas {
-    margin-top: 40%;
+    /* margin-top: -30%; */
+    top: 1%;
   }
 }
 
@@ -184,7 +185,7 @@ canvas {
 }
 @media screen and (max-width: 1400px) {
   canvas {
-    margin-top: 7%;
+    margin-top: 1%;
   }
 }
 @media screen and (max-width: 1300px) {
