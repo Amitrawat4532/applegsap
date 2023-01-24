@@ -226,9 +226,9 @@ canvas {
   }
 }
 
-.all_new {
+/* .all_new {
   padding-top: 90px;
-}
+} */
 
 @media screen and (max-width: 750px) {
   canvas {
