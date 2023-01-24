@@ -125,6 +125,6 @@ gsap.to(".text_absolute", {
 });
 
 // gsap.fromTo("#text", { opacity: 0 }, { duration: 5 }, { opacity: 0 });
-gsap.to(".all_new", {
-  y: "80px",
-});
+// gsap.to(".all_new", {
+//   y: "80px",
+// });
